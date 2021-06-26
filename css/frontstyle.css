@@ -1,0 +1,53 @@
+
+nav  {
+    text-transform: uppercase;
+}
+
+nav a {
+    color: #ffffff !important;
+}
+
+nav a:active {
+    color: #c17606 !important;
+}
+
+nav a:hover {
+    color: #ff9900 !important;
+}
+
+nav a:focus {
+    color: #c17606 !important;
+}
+
+.pagepadding {
+    padding-top: 65px;
+}
+
+.dpb {
+    background-color: #1b1e21;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+/* Tabs panel */
+.panel-heading {
+    border:1px solid #eee;
+    padding: 5px;
+}
+
+
+
+
+
+
+
